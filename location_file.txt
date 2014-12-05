@@ -1,0 +1,189 @@
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 30.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.6642677,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.255495,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416495733,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 30.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.6642577,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2554622,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416496632,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 30.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.6642253,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2555823,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416497533,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "moving",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 77.381,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7072119,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.286907,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416498376,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "moving",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7067623,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2868763,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416499333,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7067519,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2868748,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416500233,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7067427,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2868697,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416501133,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7067561,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2868958,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416502033,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "TRAVELSTATE": "stationary",
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.7067562,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2869022,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416502933,
+  "HASSPEED": false
+}
+edu.dartmouth.cs.funf.probe.LocationProbe
+{
+  "HASALTITUDE": false,
+  "HASBEARING": false,
+  "ACCURACY": 20.0,
+  "SPEED": 0.0,
+  "BEARING": 0.0,
+  "LATITUDE": 43.706763,
+  "STAELLITES": 0,
+  "NEWWORKLOCATIONTYPE": "wifi",
+  "PROBE": "edu.dartmouth.cs.funf.probe.LocationProbe",
+  "PROVIDER": "network",
+  "LONGITUDE": -72.2869184,
+  "HASACCURACY": true,
+  "ALTITUDE": 0.0,
+  "TIMESTAMP": 1416503832,
+  "HASSPEED": false
+}

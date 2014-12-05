@@ -1,0 +1,326 @@
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416495760,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -55,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "7C:D1:C3:0C:F1:39"
+      },
+      "android.bluetooth.device.extra.RSSI": -77,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -53,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "7C:D1:C3:0C:F1:39"
+      },
+      "android.bluetooth.device.extra.RSSI": -81,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -55,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "50:56:BF:D7:01:08"
+      },
+      "android.bluetooth.device.extra.RSSI": -63,
+      "android.bluetooth.device.extra.NAME": "[HTS]H5500W",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 2360324
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416496655,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "50:56:BF:D7:01:08"
+      },
+      "android.bluetooth.device.extra.RSSI": -64,
+      "android.bluetooth.device.extra.NAME": "[HTS]H5500W",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 2360324
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "7C:D1:C3:0C:F1:39"
+      },
+      "android.bluetooth.device.extra.RSSI": -89,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -51,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -49,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -55,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416497555,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "2C:B4:3A:22:AE:45"
+      },
+      "android.bluetooth.device.extra.RSSI": -86,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -63,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -63,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "2C:B4:3A:22:AE:45"
+      },
+      "android.bluetooth.device.extra.RSSI": -86,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "B0:34:95:58:BC:7B"
+      },
+      "android.bluetooth.device.extra.RSSI": -71,
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 7936
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416498444,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:02:72:A5:8E:4A"
+      },
+      "android.bluetooth.device.extra.RSSI": -76,
+      "android.bluetooth.device.extra.NAME": "Joseph Elsener’s Mac Pro",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:02:72:A5:8E:4A"
+      },
+      "android.bluetooth.device.extra.RSSI": -75,
+      "android.bluetooth.device.extra.NAME": "Joseph Elsener’s Mac Pro",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416499345,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -71,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "70:73:CB:C1:ED:A6"
+      },
+      "android.bluetooth.device.extra.RSSI": -76,
+      "android.bluetooth.device.extra.NAME": "the second desk",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416500250,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -76,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "70:73:CB:C1:ED:A6"
+      },
+      "android.bluetooth.device.extra.RSSI": -77,
+      "android.bluetooth.device.extra.NAME": "the second desk",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416501150,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -76,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416502050,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -76,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416502950,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -75,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}
+edu.mit.media.funf.probe.builtin.BluetoothProbe
+{
+  "TIMESTAMP": 1416503845,
+  "PROBE": "edu.mit.media.funf.probe.builtin.BluetoothProbe",
+  "DEVICES": [
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "00:1D:4F:8A:D8:36"
+      },
+      "android.bluetooth.device.extra.RSSI": -71,
+      "android.bluetooth.device.extra.NAME": "Bluetooth Mac (00-1d-4f-8a-d8-36)",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    },
+    {
+      "android.bluetooth.device.extra.DEVICE": {
+        "mAddress": "70:73:CB:C1:ED:A6"
+      },
+      "android.bluetooth.device.extra.RSSI": -78,
+      "android.bluetooth.device.extra.NAME": "the second desk",
+      "android.bluetooth.device.extra.CLASS": {
+        "mClass": 3670276
+      }
+    }
+  ]
+}

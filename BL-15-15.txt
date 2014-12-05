@@ -1,0 +1,14 @@
+
+LOCATIONS
+--------------------
+score is 0.3
+
+
+BLUTEOOTH
+--------------------
+
+number of devices : 9
+
+CONVERSATION
+--------------------
+0.0
